@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/MolletSimon/MolletSimon/blob/main/devcard.svg" width="400" alt="Simon Mollet's Dev Card"/></a>
 
 
-![Metrics](/github-metrics.svg)
 <!--
 **MolletSimon/MolletSimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
