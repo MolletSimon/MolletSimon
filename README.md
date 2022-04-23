@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/MolletSimon/MolletSimon/blob/master/devcard.svg" width="400" alt="Simon Mollet's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/MolletSimon/MolletSimon/blob/main/devcard.svg" width="400" alt="Simon Mollet's Dev Card"/></a>
 
 
 ![Metrics](/github-metrics.svg)
