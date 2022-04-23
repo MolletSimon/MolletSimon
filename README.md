@@ -19,7 +19,6 @@
 <br />
 
 ![Metrics](/github-metrics.svg)
-![Most used languages](/github-metrics.svg)
 
 
 <!--
