@@ -8,7 +8,7 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/DailyDevTips">
+  <a href="https://app.daily.dev/smollet">
     <img 
          src="https://github.com/MolletSimon/MolletSimon/blob/main/devcard.svg" 
          width="256" align="right" 
