@@ -23,6 +23,6 @@
 
 - 🎒 Gratuated from the CESI (Masters degree)
 - 💼 Currently working at Attineos 🐘
-- 💻 In love with Angular / .NET env, MERN app (MongoDB, ExpressJS, React, Node), Flutter and React Native
+- 💻 In love with Angular / MERN app (MongoDB, ExpressJS, React, Node), Flutter and React Native
 - 📫 How to reach me : mollet.simon.pro@gmail.com or https://www.linkedin.com/in/simon-mollet/
 - 🌱 I’m currently learning NextJS
