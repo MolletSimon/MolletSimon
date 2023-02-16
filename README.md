@@ -22,7 +22,7 @@
 ![Most used languages](/language.svg)
 
 - 🎒 Gratuated from the CESI (Masters degree)
-- 💼 Currently working at Attineos 🐘
+- 💼 Currently working freelance 
 - 💻 In love with React.js, MERN app (MongoDB, ExpressJS, React, Node), Firebase, Flutter and React Native
-- 📫 How to reach me : mollet.simon.pro@gmail.com or https://www.linkedin.com/in/simon-mollet/
+- 📫 How to reach me : simonmollet.developpement@gmail.com or https://www.linkedin.com/in/simon-mollet/
 - 🌱 I’m currently learning NextJS
